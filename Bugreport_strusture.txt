@@ -1,0 +1,10 @@
+Title
+Projects name
+Environment 
+Builds number
+Actual result
+Expected result
+Severity
+Priority
+Author
+Sign to
